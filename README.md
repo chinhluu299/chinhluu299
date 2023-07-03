@@ -10,4 +10,3 @@ Student at the University of information technology, National University of Ho C
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=chinhluu299&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chinhluu299&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chinhluu299&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
