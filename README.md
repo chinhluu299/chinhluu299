@@ -1,4 +1,4 @@
-[# 💫About Me :
+# 💫About Me :
 Student at the University of information technology, National University of Ho Chi Minh City
 
 
@@ -11,4 +11,3 @@ Student at the University of information technology, National University of Ho C
 ![](https://github-readme-stats.vercel.app/api?username=chinhluu299&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chinhluu299&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chinhluu299&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-](https://www.linkedin.com/in/ch%C3%ADnh-l%C6%B0u-8b5560278/)https://www.linkedin.com/in/ch%C3%ADnh-l%C6%B0u-8b5560278/
